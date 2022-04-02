@@ -1,0 +1,23 @@
+﻿.h5_shuqian_tip {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 99999; }
+  .h5_shuqian_tip img {
+    width: 100%;
+    height: 100%; }
+
+.yc {
+  display: none; }
+
+.pc_shuqian_tip {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 99999; }
+  .pc_shuqian_tip img {
+    width: 100%;
+    height: 100%; }
